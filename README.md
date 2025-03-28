@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , Reaction Native**
 
-- 💬 Ask me about **Java , SQL , Lua**
+- 💬 Ask me about **Javascript, NextJS, ReactJS**
 
 - 📫 How to reach me **gehardicontato@gmail.com**
 <p align="left">
