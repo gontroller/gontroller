@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm GHard</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif">
 
