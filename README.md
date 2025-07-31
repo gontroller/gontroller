@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL (GON) ;I'm+CEO+%26+Full+Stack+Developer;I'm+from+Brazil;I+Work+With+React+%26+Next.js;Be+Welcome!+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.vercel.app/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL (GON);I'm+CEO+%26+Full+Stack+Developer;I'm+from+Brazil;I+Work+With+React+%26+Next.js;Be+Welcome!+%F0%9F%91%8B" />
 </div>
 
 <!-- Profile Views -->
