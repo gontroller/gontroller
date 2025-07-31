@@ -22,7 +22,7 @@ Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por 
 
 ### 🎵 Now Playing on Spotify
 
-[![Spotify](novatorem-jamn-git-main-gabriels-projects-ebe76824.vercel.app)](https://open.spotify.com/user/31kiyhrfb3xfrxa7dwaodsbbye5i)
+[![Spotify](novatorem-jamn-git-main-gabriels-projects-ebe76824.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
 ---
 
