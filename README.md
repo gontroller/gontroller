@@ -10,6 +10,11 @@
 
 ---
 
+### 🎵 Now Playing
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kiyhrfb3xfrxa7dwaodsbbye5i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
+---
+
 ### 🧑‍💻 Sobre mim
 
 Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por transformar ideias em interfaces fluidas e modernas. Buscando sempre evoluir como dev e criador de produtos digitais.
@@ -17,12 +22,6 @@ Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por 
 - 🌱 Atualmente aprendendo **React Native** e **TailwindCSS**
 - 💬 Me pergunte sobre **ReactJS, NextJS, CSS**
 - 📫 Contato: **gontroller@icloud.com**
-
----
-
-### 🎵 Now Playing on Spotify
-
-[![Spotify](novatorem-jamn-git-main-gabriels-projects-ebe76824.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
 ---
 
@@ -60,4 +59,37 @@ Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?userna
+  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📊 Contribuições
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=radical" alt="Profile Details" />
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/seu-linkedin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/seu-instagram" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
