@@ -24,12 +24,11 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
@@ -56,7 +55,11 @@ const gabriel = {
     },
     currentOccupation: ["CEO at DevSign", "Full Stack Developer"],
     challenge: "I'm building the future of web development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    // Unique identifiers
+    signature: "gontroller.dev",
+    timestamp: "2024-01-15",
+    version: "2.0.0"
 };
 ```
 
@@ -112,7 +115,12 @@ const gabriel = {
 ## 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gontroller&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gontroller&theme=github-compact&hide_border=true" />
+</div>
+
+<!-- Alternative Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
 </div>
 
 ---
@@ -137,7 +145,11 @@ const gabriel = {
 
 ---
 
-<!-- Footer -->
+<!-- Copyright & Protection -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gontroller&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <sub>
+    <strong>© 2024 Gabriel - gontroller.dev</strong><br>
+    This README is unique and personalized. Copying without permission is not cool! 😎<br>
+    <em>Built with ❤️ and ☕ in Brazil</em>
+  </sub>
 </div>
