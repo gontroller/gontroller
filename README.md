@@ -10,11 +10,27 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🧑‍💻 Sobre mim
+
+Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por transformar ideias em interfaces fluidas e modernas. Buscando sempre evoluir como dev e criador de produtos digitais.
 
 - 🌱 Atualmente aprendendo **React Native** e **TailwindCSS**
 - 💬 Me pergunte sobre **ReactJS, NextJS, CSS**
 - 📫 Contato: **gontroller@icloud.com**
+
+---
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem-gontroller.vercel.app/api/spotify)](https://open.spotify.com/user/31kiyhrfb3xfrxa7dwaodsbbye5i)
+
+---
+
+### 🚀 Em aprendizado
+
+- ⚛️ React Native: ![50%](https://progress-bar.dev/50/)
+- 🎨 TailwindCSS: ![70%](https://progress-bar.dev/70/)
+- 💡 UI/UX: ![30%](https://progress-bar.dev/30/)
 
 ---
 
@@ -28,26 +44,20 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" alt="Python" /></a>
 </p>
 
 ---
 
-### 📈 Estatísticas GitHub
+### 🌟 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&locale=en" alt="gontroller GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gontroller&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller" alt="GitHub Streak Stats" />
-</p>
+- 🏦 [spring-boot.desafio.itau](https://github.com/gontroller/spring-boot.desafio.itau) — API RESTful desenvolvida com Java Spring Boot para simulação de crédito.
+- 🌐 [3d-porfolio](https://github.com/gontroller/3d-porfolio) — Portfólio interativo em 3D com React e Three.js.
 
 ---
 
-### 👀 Visualizações
+### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0e75b6&style=flat" alt="gontroller" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?userna
