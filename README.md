@@ -1,97 +1,143 @@
-<!-- Banner superior -->
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="banner" width="100%" />
+<!-- Header Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL;I'm+CEO+%26+Full+Stack+Developer;I'm+from+Brazil;I+Work+With+React+%26+Next.js;Be+Welcome!+%F0%9F%91%8B" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Gabriel(Gon)</h1>
-<h3 align="center">CEO & Web Designer | Front-End Enthusiast</h3>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" width="400" alt="Coding gif" />
-</p>
-
----
-
-### 🎵 Now Playing
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400)
-
----
-
-### 🧑‍💻 Sobre mim
-
-CEO e Web Designer da **DevSign**, empresa focada em desenvolvimento web e design digital. Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por transformar ideias em interfaces fluidas e modernas. Buscando sempre evoluir como dev e criador de produtos digitais.
-
-- 🌱 Atualmente aprendendo **React Native** e **TailwindCSS**
-- 💬 Me pergunte sobre **ReactJS, NextJS, CSS, Design**
-- 📫 Contato: **gontroller@icloud.com**
+<!-- Spotify Now Playing -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400" />
+</div>
 
 ---
 
-### 🚀 Em aprendizado
-
-- 🎯 ![60%](https://img.shields.io/badge/Next.js%2014-60%25-black?style=for-the-badge&logo=next.js)
-- 🎨 ![45%](https://img.shields.io/badge/Framer%20Motion-45%25-purple?style=for-the-badge&logo=framer)
-- 🚀 ![35%](https://img.shields.io/badge/Three.js-35%25-000000?style=for-the-badge&logo=three.js)
-- ⚡ ![55%](https://img.shields.io/badge/Performance-55%25-green?style=for-the-badge&logo=google)
-- 🎭 ![40%](https://img.shields.io/badge/Design%20Systems-40%25-pink?style=for-the-badge&logo=storybook)
+<!-- About Section -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+<!-- Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller&theme=github_dark" />
+</div>
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" alt="Python" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=github_dark" />
+</div>
 
 ---
 
-### 🌟 Projetos em Destaque
+<!-- About Me -->
+## 🚀 About Me
 
-- 🏦 [spring-boot.desafio.itau](https://github.com/gontroller/spring-boot.desafio.itau) — API RESTful desenvolvida com Java Spring Boot para simulação de crédito.
-- 🌐 [3d-porfolio](https://github.com/gontroller/3d-porfolio) — Portfólio interativo em 3D com React e Three.js.
+```javascript
+const gabriel = {
+    pronouns: "he" | "him",
+    code: ["Javascript", "Typescript", "Python", "Java", "C#"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        cloud: ["AWS", "Vercel", "Heroku"]
+    },
+    currentOccupation: ["CEO at DevSign", "Full Stack Developer"],
+    challenge: "I'm building the future of web development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ---
 
-### 📈 GitHub Stats
+<!-- Skills Section -->
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller&theme=radical" alt="GitHub Streak" />
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-### 📊 Contribuições
+<!-- Projects Section -->
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=radical" alt="Profile Details" />
-</p>
-
----
-
-### 🤝 Conecte-se comigo
-
-<p align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+  <a href="https://github.com/gontroller/spring-boot.desafio.itau">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gontroller&repo=spring-boot.desafio.itau&theme=github_dark" />
   </a>
-  <a href="https://instagram.com/seu-instagram" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://github.com/gontroller/3d-porfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gontroller&repo=3d-porfolio&theme=github_dark" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- Activity Graph -->
+## 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gontroller&theme=github-compact" />
+</div>
+
+---
+
+<!-- Contact Section -->
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/seu-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:gontroller@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://devsign.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/DevSign-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gontroller&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
