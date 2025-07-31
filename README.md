@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Web Developer | Front-End Enthusiast</h3>
+<h3 align="center">CEO & Web Designer | Front-End Enthusiast</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif" width="400" alt="Coding gif" />
@@ -17,19 +17,21 @@
 
 ### 🧑‍💻 Sobre mim
 
-Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por transformar ideias em interfaces fluidas e modernas. Buscando sempre evoluir como dev e criador de produtos digitais.
+CEO e Web Designer da **DevSign**, empresa focada em desenvolvimento web e design digital. Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por transformar ideias em interfaces fluidas e modernas. Buscando sempre evoluir como dev e criador de produtos digitais.
 
 - 🌱 Atualmente aprendendo **React Native** e **TailwindCSS**
-- 💬 Me pergunte sobre **ReactJS, NextJS, CSS**
+- 💬 Me pergunte sobre **ReactJS, NextJS, CSS, Design**
 - 📫 Contato: **gontroller@icloud.com**
 
 ---
 
 ### 🚀 Em aprendizado
 
-- ⚛️ ![50%](https://img.shields.io/badge/React%20Native-50%25-blue?style=for-the-badge&logo=react)
-- 🎨 ![70%](https://img.shields.io/badge/TailwindCSS-70%25-38B2AC?style=for-the-badge&logo=tailwind-css)
-- 💡 ![100%](https://img.shields.io/badge/UI%2FUX-30%25-purple?style=for-the-badge&logo=figma)
+- 🎯 ![60%](https://img.shields.io/badge/Next.js%2014-60%25-black?style=for-the-badge&logo=next.js)
+- 🎨 ![45%](https://img.shields.io/badge/Framer%20Motion-45%25-purple?style=for-the-badge&logo=framer)
+- 🚀 ![35%](https://img.shields.io/badge/Three.js-35%25-000000?style=for-the-badge&logo=three.js)
+- ⚡ ![55%](https://img.shields.io/badge/Performance-55%25-green?style=for-the-badge&logo=google)
+- 🎭 ![40%](https://img.shields.io/badge/Design%20Systems-40%25-pink?style=for-the-badge&logo=storybook)
 
 ---
 
