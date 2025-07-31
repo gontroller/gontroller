@@ -3,13 +3,13 @@
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gehardi&label=Profile%20views&color=0e75b6&style=flat" alt="gehardi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0e75b6&style=flat" alt="gontroller" /> </p>
 
-- 🌱 I’m currently learning **Python , Reaction Native**
+- 🌱 I’m currently learning **React Native, TailwindCss**
 
-- 💬 Ask me about **Javascript, NextJS, ReactJS**
+- 💬 Ask me about **NextJS, ReactJS, CSS**
 
-- 📫 How to reach me **gehardicontato@gmail.com**
+- 📫 How to reach me **gontroller@icloud.com**
 <p align="left">
 </p>
 
@@ -18,8 +18,8 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
 
-<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=gehardi&show_icons=true&locale=en&layout=compact" alt="gehardi" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=gontroller&show_icons=true&locale=en&layout=compact" alt="gontroller" /></p>
 
-<p>&nbsp;<img align="bottom"src="https://github-readme-stats.vercel.app/api?username=gehardi&show_icons=true&locale=en" alt="gehardi" /></p>
+<p>&nbsp;<img align="bottom"src="https://github-readme-stats.vercel.app/api?username=gontroller&show_icons=true&locale=en" alt="gontroller" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gehardi&" alt="gehardi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gontroller&" alt="gontroller" /></p>
