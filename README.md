@@ -27,9 +27,9 @@ Desenvolvedor Web com foco em React, NextJS e design responsivo. Apaixonado por 
 
 ### 🚀 Em aprendizado
 
-- ⚛️ React Native: ![50%](https://img.shields.io/badge/React%20Native-50%25-blue?style=for-the-badge&logo=react)
-- 🎨 TailwindCSS: ![70%](https://img.shields.io/badge/TailwindCSS-70%25-38B2AC?style=for-the-badge&logo=tailwind-css)
-- 💡 UI/UX: ![30%](https://img.shields.io/badge/UI%2FUX-30%25-purple?style=for-the-badge&logo=figma)
+- ⚛️ ![50%](https://img.shields.io/badge/React%20Native-50%25-blue?style=for-the-badge&logo=react)
+- 🎨 ![70%](https://img.shields.io/badge/TailwindCSS-70%25-38B2AC?style=for-the-badge&logo=tailwind-css)
+- 💡 ![100%](https://img.shields.io/badge/UI%2FUX-30%25-purple?style=for-the-badge&logo=figma)
 
 ---
 
