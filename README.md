@@ -148,7 +148,7 @@ const gabriel = {
 <!-- Copyright & Protection -->
 <div align="center">
   <sub>
-    <strong>© 2024 Gabriel - gontroller.dev</strong><br>
+    <strong>© 2024 Gabriel - gontrollerdev</strong><br>
     This README is unique and personalized. Copying without permission is not cool! 😎<br>
     <em>Built with ❤️ and ☕ in Brazil</em>
   </sub>
