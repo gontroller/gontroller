@@ -13,14 +13,10 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400" />
 </div>
 
----
-
 <!-- About Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontrolle&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
 </div>
-
----
 
 <!-- Stats Section -->
 <div align="center">
@@ -31,9 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gontroller&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
----
-
-<!-- About Me -->
 ## 🚀 About Me
 
 ```javascript
@@ -61,6 +54,7 @@ const gabriel = {
     timestamp: "2024-01-15",
     version: "2.0.0"
 };
+
 ```
 
 ---
