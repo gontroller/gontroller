@@ -17,7 +17,7 @@
 
 <!-- About Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
+  <img src="&theme=github_dark" />
 </div>
 
 ---
