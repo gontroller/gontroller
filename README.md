@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gontroller&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile Views" />
+  <img src="![gontroller's Stats](https://github-readme-stats.vercel.app/api?username=gontroller&theme=react&show_icons=true&hide_border=false&count_private=false) />
 </div>
 
 <!-- Spotify Now Playing -->
