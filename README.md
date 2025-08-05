@@ -7,12 +7,6 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400" />
 </div>
-
-<!-- About Section -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
-</div>
-
 ## 🚀 About Me
 
 ```javascript
