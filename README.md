@@ -7,6 +7,8 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400" />
 </div>
+
+
 ## 🚀 About Me
 
 ```javascript
