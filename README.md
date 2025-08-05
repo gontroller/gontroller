@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.vercel.app/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL+(GON);I'm+CEO+%26+Full+Stack+Developer;I'm+from+Brazil;I+Work+With+React+%26+Next.js;Be+Welcome!+%F0%9F%91%8B" />
 </div>
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="![gontroller's Stats](https://github-readme-stats.vercel.app/api?username=gontroller&theme=react&show_icons=true&hide_border=false&count_private=false) />
-</div>
-
 <!-- Spotify Now Playing -->
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kiyhrfb3xfrxa7dwaodsbbye5i&count=1&width=400" />
