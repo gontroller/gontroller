@@ -87,20 +87,6 @@ const gabriel = {
 
 ---
 
-<!-- Activity Graph -->
-## 📊 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gontroller&theme=github-compact&hide_border=true" />
-</div>
-
-<!-- Alternative Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gontroller&theme=github_dark" />
-</div>
-
----
-
 <!-- Contact Section -->
 ## 📫 Connect with Me
 
