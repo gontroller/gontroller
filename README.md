@@ -31,7 +31,7 @@ const gabriel = {
     currentOccupation: ["CEO at DevSign", "Full Stack Developer"],
     challenge: "I'm building the future of web development",
     funFact: "There are two ways to write error-free programs; only the third one works",
-    // Unique identifiers
+
     signature: "gontrollerdev",
     timestamp: "2024-01-15",
     version: "2.0.0"
